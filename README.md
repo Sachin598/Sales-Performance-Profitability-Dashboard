@@ -61,6 +61,3 @@ An interactive 3-page Power BI dashboard designed to analyze business sales perf
 Aspiring Data Analyst | Power BI Developer
 
 GitHub: https://github.com/Sachin598
-
----
-⭐ If you find this project useful, consider giving it a star!
