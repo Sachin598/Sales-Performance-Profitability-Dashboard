@@ -61,3 +61,16 @@ An interactive 3-page Power BI dashboard designed to analyze business sales perf
 Aspiring Data Analyst | Power BI Developer
 
 GitHub: https://github.com/Sachin598
+
+---
+
+## 📸 Dashboard Preview
+
+### Page 1 – Business Performance Overview
+![Business Performance Overview](Screenshot%202026-10-30%20221557.png)
+
+### Page 2 – Product & Profitability Analysis
+![Product Profitability Analysis](Screenshot%202026-10-30%20221634.png)
+
+### Page 3 – Customer & Regional Analysis
+![Customer Regional Analysis](Screenshot%202026-10-30%20221725.png)
